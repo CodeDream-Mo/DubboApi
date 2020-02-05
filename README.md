@@ -1,1 +1,2 @@
 # DubboApi
+该示例主要演示了Dubbo原生Api的调用方式和Spring的rmi远程调用方式

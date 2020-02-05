@@ -1,0 +1,14 @@
+[INFO] [2020-02-05 15:15:47][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58d25a40: startup date [Wed Feb 05 15:15:47 CST 2020]; root of context hierarchy
+[INFO] [2020-02-05 15:15:47][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-server.xml]
+[INFO] [2020-02-05 15:15:48][org.springframework.remoting.rmi.RmiServiceExporter]Looking for RMI registry at port '1199'
+[INFO] [2020-02-05 15:15:50][org.springframework.remoting.rmi.RmiServiceExporter]Could not detect RMI registry - creating new one
+[INFO] [2020-02-05 15:15:50][org.springframework.remoting.rmi.RmiServiceExporter]Binding service 'VipUserService' to RMI registry: RegistryImpl[UnicastServerRef [liveRef: [endpoint:[192.168.216.1:1199](local),objID:[0:0:0, 0]]]]
+[INFO] [2020-02-05 15:15:56][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58d25a40: startup date [Wed Feb 05 15:15:56 CST 2020]; root of context hierarchy
+[INFO] [2020-02-05 15:15:56][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-client.xml]
+[INFO] [2020-02-05 15:18:30][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58d25a40: startup date [Wed Feb 05 15:18:30 CST 2020]; root of context hierarchy
+[INFO] [2020-02-05 15:18:30][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-server.xml]
+[INFO] [2020-02-05 15:18:31][org.springframework.remoting.rmi.RmiServiceExporter]Looking for RMI registry at port '1199'
+[INFO] [2020-02-05 15:18:32][org.springframework.remoting.rmi.RmiServiceExporter]Could not detect RMI registry - creating new one
+[INFO] [2020-02-05 15:18:32][org.springframework.remoting.rmi.RmiServiceExporter]Binding service 'VipUserService' to RMI registry: RegistryImpl[UnicastServerRef [liveRef: [endpoint:[192.168.216.1:1199](local),objID:[0:0:0, 0]]]]
+[INFO] [2020-02-05 15:18:34][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58d25a40: startup date [Wed Feb 05 15:18:34 CST 2020]; root of context hierarchy
+[INFO] [2020-02-05 15:18:34][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-client.xml]
